@@ -17,6 +17,11 @@ The codes involves the following below
 
 - CI / CD Integration with Dashboard Service and Jenkins
 
+Command to Run Single test file in headless mode
+//login.spec.js = represent the test case (examples)
+- npx cypress run --spec="cypress/integration/examples/login.spec.js"
+
+
 DUMMY websites used are 
 
 - www.example.com
