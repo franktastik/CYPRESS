@@ -1,9 +1,7 @@
 # CYPRESS
 Automation Testing with Cypress
 
-The codes involves the following below
-
--CYPRESS TESTING BASIC + ADVANCE
+The codes involves the following test cases below
 - Load URL 
 - Assertions 
 - Implicit waits, Pause, Debug 
